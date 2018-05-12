@@ -1,0 +1,39 @@
+_repo: A-gravura-em-Portugal--13-breves-apontamentos-para-a-sua-hist-ria_23851
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Viterbo, Francisco Marques Sousa
+    alias: Viterbo, Sousa
+    birthdate: 1843
+    deathdate: 1910
+    gutenberg_agent_id: '26084'
+    url: http://www.gutenberg.org/2009/agents/26084
+    wikipedia: http://pt.wikipedia.org/wiki/Francisco_Marques_de_Sousa_Viterbo
+description: ''
+edition_note: Separata do Boletim da Real Associação dos Architectos Civis e Archelogos
+  Portuguezes
+gutenberg_bookshelf:
+- PT Arte
+- PT História
+gutenberg_issued: '2007-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23851'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: "Produced by Rita Farinha and the Online Distributed\r\nProofreading\
+  \ Team at http://www.pgdp.net (This file was\r\nproduced from images generously\
+  \ made available by National\r\nLibrary of Portugal (Biblioteca Nacional de Portugal).)"
+publication_note: "Lisboa:\r\nTyp. da Casa da Moeda e Papel Sellado\r\n1909"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Engraving -- Portugal'
+- !lcc 'NE'
+- !lcsh 'Engravers -- Portugal'
+title: 'A gravura em Portugal: breves apontamentos para a sua história'
+url: http://www.gutenberg.org/ebooks/23851
