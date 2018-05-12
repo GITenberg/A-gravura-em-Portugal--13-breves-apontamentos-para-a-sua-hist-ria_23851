@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26084
     wikipedia: http://pt.wikipedia.org/wiki/Francisco_Marques_de_Sousa_Viterbo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23851#A-gravura-em-Portugal--13-breves-apontamentos-para-a-sua-hist-ria
 edition_note: Separata do Boletim da Real Associação dos Architectos Civis e Archelogos
   Portuguezes
 gutenberg_bookshelf:
